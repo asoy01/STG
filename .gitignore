@@ -1,1 +1,4 @@
 node_modules
+.vscode
+/STG.code-workspace
+/.eslintrc.json
